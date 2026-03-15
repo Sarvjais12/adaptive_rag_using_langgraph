@@ -1,0 +1,9 @@
+gradio
+groq
+langchain
+langchain-community
+langgraph
+faiss-cpu
+sentence-transformers
+pypdf
+langchain-text-splitters
